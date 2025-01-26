@@ -7,7 +7,7 @@ The project is part of the COMP3011: Web Services and Web Data module coursework
 
 ## Tools and Technologies
 
-Frameworks and Libraries: Django, SQLite, Django REST Framework.
-Testing and Validation: Postman, Django Admin, DB Browser for SQLite.
-Deployment: PythonAnywhere.
-Programming Language: Python 3.8.
+- Frameworks and Libraries: Django, SQLite, Django REST Framework.
+- Testing and Validation: Postman, Django Admin, DB Browser for SQLite.
+- Deployment: PythonAnywhere.
+- Programming Language: Python 3.8.
